@@ -45,6 +45,7 @@ You can add a new bounding box by pressing **n** and then clicking two of its op
 Once a bounding box is selected and ready to process the person removal press **enter** and a new image will appear.
 Blue zones are the selected ones that will be removed.
 By clicking inside a zone you add/remove it from the selected zone.
+It is better to select too much than not enough because every not selected part of the image will not be removed, whereas background wrongly removed may be restored by the filling algorithm.
 Once it is done, press **enter** again.
 
 ### Other options
