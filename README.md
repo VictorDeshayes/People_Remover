@@ -1,6 +1,7 @@
 # People_Remover
 
 Simple C++ application for removing people in an image.
+Example of results: https://image.ibb.co/bxcZE6/all.jpg.
 
 ## Getting Started
 

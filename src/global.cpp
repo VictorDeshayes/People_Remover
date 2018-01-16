@@ -9,7 +9,7 @@ namespace global
     int down = 84;
     int esc = 27;
     int suppr = 255;
-    int enter = 13;
+    int enter = 10;
     int n = 'n';
     int q = 'q';
     int s = 's';
